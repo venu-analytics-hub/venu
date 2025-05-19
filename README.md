@@ -17,31 +17,6 @@ Passionate about transforming raw data into meaningful insights.
 
 ## ✈️ SQL Capstone Project – AirlineDB Analysis
 
-Analyzed a simulated airline database with complex relationships across bookings, flights, and passengers.
-
-### 🔍 Objective
-Extract key business insights using advanced SQL queries.
-
-### 💼 Responsibilities
-- Identified longest flights and highest range flights  
-- Counted tickets without boarding passes  
-- Reformatted booking dates and summarized booking amounts  
-- Retrieved top monthly paying passengers with filters
-
-### 🚀 Results
-- Delivered 5+ optimized SQL queries  
-- Strengthened skills in:
-  - Joins
-  - Aggregates
-  - Date functions
-  - Subqueries
-
-### 🛠️ Tools
-- SQL (PostgreSQL or MySQL)
-
-
-
-
 # Python Capstone Project – Employee & Project Data Analysis
 
 This project demonstrates real-world data analysis using Python, Pandas, and NumPy. It involves working with three related datasets: Employee, Project, and Seniority Level. The analysis includes data cleaning, transformation, merging, and conditional logic operations to extract meaningful insights.
