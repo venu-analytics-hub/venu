@@ -15,33 +15,6 @@ Passionate about transforming raw data into meaningful insights.
 
 ## 🛍️ ShopNest Store: Sales & Delivery Dashboard
 
-ShopNest, a major online department store in Portugal, needed insights into sales performance, delivery efficiency, and customer behavior using anonymized transaction data.
-
-### 🔍 Objective
-Build a Power BI dashboard highlighting:
-- Category sales
-- Delivery delays
-- Regional performance
-- Revenue trends
-
-### 💼 Responsibilities
-- Designed visuals for:
-  - Top categories
-  - Delayed vs. on-time orders
-  - Seasonal sales patterns
-  - Product ratings
-  - State-wise sales
-
-### 🚀 Results
-- Delivered interactive dashboards for business use  
-- Enabled faster data-driven decisions  
-- Improved operational and customer insight
-
-### 🛠️ Tools
-- Power BI, Excel
-
----
-
 ## ✈️ SQL Capstone Project – AirlineDB Analysis
 
 Analyzed a simulated airline database with complex relationships across bookings, flights, and passengers.
