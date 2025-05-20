@@ -24,5 +24,7 @@
 
      # Python Capstone Project – Employee & Project Data Analysis
 
+## 📫 Let's connect on [https://www.linkedin.com/in/venugopal-naidu-motakatla-435111366/]
+
 
 
